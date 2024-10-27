@@ -9,7 +9,7 @@ const hariini = moment.tz('Asia/Jakarta').format('dddd, DD MMMM YYYY')
 const time = moment(Date.now()).tz('Asia/Jakarta').locale('id').format('HH:mm:ss z')
 
 //PAIRING CODE
-global.pairing = '6281541177589'
+global.pairing = '6281360773542'
 //contact details
 global.owner = ['6281541177589'] // ubah aja pake nomor lu
 global.owner0 = '6281541177589@s.whatsapp.net'
